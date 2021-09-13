@@ -1,0 +1,2 @@
+C:\Users\Elian Diaz\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.AssemblyReference.cache
+C:\Users\Elian Diaz\source\repos\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.CoreCompileInputs.cache
